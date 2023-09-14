@@ -1,0 +1,9 @@
+mlflow
+tqdm
+fire
+scipy
+tqdm
+pandas
+matplotlib
+Pillow
+openpyxl
