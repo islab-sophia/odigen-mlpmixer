@@ -1,7 +1,9 @@
 #odigen-mlpmixer
 
 This repository contains the official pytorch implementation of "Increasing diversity of omni-directional images
-generated from single image using cGAN based on MLPMixer".
+generated from single image using cGAN based on MLPMixer" in ACPR2023.
+
+- Atsuya Nakata, Ryuto Miyazaki, and Takao Yamanaka, "Increasing diversity of omni-directional images generated from single image using cGAN based on MLPMixer," ACPR2023.
 
 ![GeneratorImage_v3.png](GeneratorImage_v3.png)
 
@@ -62,3 +64,7 @@ python calc_all_metrics.py
 ```
 
 The evaluation are stored in "eval/evaluation" folder.
+
+## References
+- Atsuya Nakata, Ryuto Miyazaki, and Takao Yamanaka, "Increasing diversity of omni-directional images generated from single image using cGAN based on MLPMixer," ACPR2023.
+- Keisuke Okubo and Takao Yamanaka, “Omni-Directional Image Generation from Single Snapshot Image,” IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020, Tronto, Canada (Virtual Conference). [arXiv https://arxiv.org/abs/2010.05600] | [GitHub https://github.com/keisuke-okb/class-conditioned-ODI-generator-pytorch]
