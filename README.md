@@ -36,9 +36,9 @@ pip3 install torch==1.10.2+cu113 torchvision==0.11.3+cu113 torchaudio==0.10.2+cu
 
 ## Dataset
 
-The data can be downloaded from the following url
-"Write link here"
-
+The data can be downloaded from the following url :
+[Google Drive](https://drive.google.com/file/d/1Te9dsYeIMYlJu0Edh6kfH5WXf6AUJBZB/view?usp=drive_link
+)
 ## Usage
 
 To train the model, use the following command:
@@ -51,7 +51,8 @@ python train.py
 
 To evaluate the trained generator model, follow these steps:
 
-1. Download model weight and calcurated statistics of sun360 from this link "Write link here". 
+1. Download model weight and calcurated statistics of sun360 from this link : [Google Drive](https://drive.google.com/file/d/1EzKRZWzVYIdXxDWXWv_-d49MXtdX3-A8/view?usp=drive_link
+). 
 2. Copy the trained generator to the eval/generators directory and rename it to "test.pth".
 3. Run the following command from the root directory:
 
